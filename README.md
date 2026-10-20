@@ -1,1 +1,1 @@
-# T1-Concorr-ncia-e-Sincroniza-o-O-Problema-dos-Fil-sofos-Jantando
+# T1 - Concorrência e Sincronização, O Problema dos Filósofos Jantando.
